@@ -1,0 +1,10 @@
+[package]
+name = 'message'
+version = '1.0.0'
+[dependencies.AptosFramework]
+git = 'https://github.com/aptos-labs/aptos-core.git'
+rev = 'main'
+subdir = 'aptos-move/framework/aptos-framework'
+
+[addresses]
+Sender = "0xe651aa3a396ecc2cb787a45e4ab1facd4918b2cf1f789f41c7514e3654f692a1"
