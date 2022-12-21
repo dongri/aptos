@@ -38,3 +38,12 @@ $ ~/.cargo/bin/move-analyzer -V
 move-analyzer 1.0.0           
 ```
 /Users/dongri/.cargo/bin/move-analyzer
+
+# Aptos for Developer
+https://aptos.dev/nodes/aptos-deployments
+## devnet
+* https://fullnode.devnet.aptoslabs.com/v1
+* https://faucet.devnet.aptoslabs.com/
+## testnet
+* https://fullnode.testnet.aptoslabs.com/v1
+* https://aptoslabs.com/testnet-faucet
